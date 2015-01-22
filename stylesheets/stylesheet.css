@@ -36,10 +36,10 @@ li {
 */
 
 header {
-  background: #151515 url("http://i.imgur.com/HZhmWwe.jpg") 10 20;
+  background: #151515 url("http://i.imgur.com/HZhmWwe.jpg") 0 0;
   width: 100%;
   border-bottom: 0px dashed #b5e853;
-  padding: 30px 20;
+  padding: 30px 0;
   margin: 0 0 40px 0;
 }
 
