@@ -19,5 +19,5 @@ __Second Acc name DesfuctionZ- rank DMG__
 __My faverite team is Ninja in Pyjamas NIP__
 
 __f0rest and kennyS this is my idol player.__
-## This link to choose crosshair to you want
+
 
