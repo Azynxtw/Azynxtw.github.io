@@ -1,5 +1,4 @@
-# Azynxtw.github.io
-EXP
+
 # Hello 
 
 __Welcome to mypages__
