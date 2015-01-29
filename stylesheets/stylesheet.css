@@ -1,12 +1,11 @@
 body {
-  margin: 0;
-  padding: 0;
-  background: #151515 url("http://global-offensive.com/wp-content/uploads/sites/8/2014/02/kvv97dt.jpg") 0 0;
-  color: #eaeaea;
-  font: 16px;
-  line-height: 2;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+	background: url(http://global-offensive.com/wp-content/uploads/sites/8/2014/02/kvv97dt.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
+
 
 /* General & 'Reset' Stuff */
 
